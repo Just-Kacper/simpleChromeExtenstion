@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Chrome To-Do",
+    "description": "Clean and simple chrome to-do extension",
+    "version": "1.0",
+    "action": {
+        "default-popup": "index.html"
+    },
+    "permissions": [
+        "storage"
+    ],
+    "icons": {
+        "16": "icons/icons_16.png",
+        "32": "icons/icons_32.png",
+        "128": "icons/icons_128.png"
+    }
+}
